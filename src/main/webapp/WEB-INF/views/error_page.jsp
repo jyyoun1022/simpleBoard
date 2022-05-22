@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Error Pagee</title>
+<title>Error Page</title>
 </head>
 <body>
 <h4><c:out value="${exception.getMessage()}"/></h4>
